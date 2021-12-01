@@ -4,7 +4,7 @@
 
 <div align="left">
 
-![r3nanp](https://img.shields.io/badge/r3nanp-temperature-color?style=for-the-badge&logo=node.js)
+![r3nanp](https://img.shields.io/badge/r3nanp-my-blog-api-color?style=for-the-badge&logo=node.js)
 ![prs](https://img.shields.io/static/v1?label=PRs&message=welcome&style=for-the-badge&color=24B36B&labelColor=000000)
 
 </div>
